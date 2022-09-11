@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+
+body{
+    background-color: black;
+}
+.navbar {
+    margin-bottom: 20px;
+    border-bottom: #4ab009 2px solid;
+}
+
+h1{
+    color: #4ab009;
+    text-align: center;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    margin: 10px;
+    border: #4ab009 2px solid;
+}
+
+.btn{
+    background-color: #4ab009;
+}
